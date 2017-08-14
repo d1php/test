@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "micro": "^8.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "yarn run lint"
+  }
+}
